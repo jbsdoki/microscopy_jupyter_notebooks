@@ -1,2 +1,5 @@
 *.emd
 *.ipynb_checkpoints
+*.zip
+*.hdf5
+TEM_EDS_nanoparticles.ipynb
